@@ -1,5 +1,6 @@
 # Asus-H81M-K-OpenCore
-Full working OpenCore with Kexts and SSDTs
+ASUS H81M-K motherboard.
+- Full working OpenCore with Kexts and SSDTs
 
 * OpenCore-0.5.9-RELEASE
 * SSDT-EC.aml
