@@ -13,3 +13,6 @@ Working:
 - USB
 - Sleep
 - CPU power management (Core i3 4150)
+
+Not working:
+- None
